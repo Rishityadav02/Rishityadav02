@@ -26,7 +26,10 @@ I specialize in crafting **modern, clean, and visually striking interfaces** bac
 ### 🛍️ ShopR — E-Commerce App Design
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/ShopR-preview.png](https://github.com/Rishityadav02/Rishityadav02/blob/main/shopr.webp" width="80%" />
+  <img 
+    src="https://raw.githubusercontent.com/Rishityadav02/Rishityadav02/main/shopr.webp" 
+    width="50%" 
+  />
 </p>
 
 A modern e-commerce mobile app focused on:
