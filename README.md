@@ -1,66 +1,95 @@
-# 👋 Hey, I'm Rishit
+<h1 align="center">Hey 👋 I'm Rishit Yadav</h1>
 
-🚀 UI/UX Designer | AI-Powered Product Thinker | Web Designer
+<p align="center">
+🚀 UI/UX Designer • Modern Aesthetic Interfaces • AI-Powered Workflows  
+</p>
 
-I design experiences that are not just visually appealing, but solve real user problems.
-
-Currently exploring how AI can enhance UX, automate workflows, and redefine how products are built.
-
----
-
-## 🧠 What I Do
-
-- 🎯 Design high-converting UI/UX for web & mobile
-- 🤖 Integrate AI into product experiences
-- ⚡ Rapid prototyping using modern tools
-- 📊 Focus on usability, clarity & business impact
+<p align="center">
+I design experiences that are not just beautiful — but effortless to use.
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
+## ✨ About Me
+
+I specialize in crafting **modern, clean, and visually striking interfaces** backed by strong UX thinking.
+
+- 🎨 Aesthetic-first design with real usability  
+- 🧠 Deep focus on user behavior & clarity  
+- 🤖 Using AI to speed up design & exploration  
+- ⚡ Turning ideas into polished experiences  
+
+---
+
+## 🔥 Featured Project
+
+### 🛍️ ShopR — E-Commerce App Design
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/ShopR-preview.png" width="80%" />
+</p>
+
+A modern e-commerce mobile app focused on:
+- Clean product browsing experience  
+- Smooth user flow from discovery → checkout  
+- Minimal, distraction-free UI  
+- Strong visual hierarchy & spacing  
+
+👉 **View Full Project:**  
+https://dribbble.com/shots/24972297-ShopR-An-E-Commerce-App-design
+
+---
+
+## 🎯 What Makes My Work Different
+
+✨ Not just visually appealing — strategically designed  
+⚡ Fast exploration using AI + refined execution  
+🧩 Focus on systems, not isolated screens  
+🎯 Designed for usability, clarity & conversion  
+
+---
+
+## 🧠 My Design Approach
+
+```
+Understand → Explore → Simplify → Refine → Deliver
+```
+
+- I break down problems deeply  
+- Explore multiple directions using AI  
+- Simplify the experience  
+- Deliver clean, modern, scalable UI  
+
+---
+
+## 🛠️ Tools & Stack
 
 **Design**
-- Figma, Framer, Webflow
+- Figma • Framer • Webflow  
 
-**AI Tools**
-- ChatGPT, Galileo AI, Uizard, Stitch
+**AI**
+- ChatGPT • Galileo AI • Uizard • Stitch  
 
 **Development**
-- HTML, CSS, JavaScript, React
+- HTML • CSS • JavaScript • React  
 
 ---
 
-## 🚀 Featured Work
+## 🌐 Explore More of My Work
 
-### 🔹 SaaS Dashboard (AI-Enhanced UX)
-Designed a scalable dashboard experience focusing on clarity, real-time insights, and automation.
-
-### 🔹 Coffee Shop Mobile App
-Crafted a user-friendly ordering experience with a focus on speed and personalization.
-
-### 🔹 Interior Design Website
-Designed a modern, aesthetic website with strong visual storytelling and smooth UX.
+- 🎨 Dribbble → https://dribbble.com/rishityadav2002  
+- 💼 Behance → https://www.behance.net/rishityadav  
 
 ---
 
-## 🧩 My Design Approach
+## 📬 Let’s Work Together
 
-I don’t just design screens.
+💼 Open for freelance & collaborations  
 
-I:
-- Understand the problem deeply
-- Map user journeys
-- Identify friction points
-- Use AI to speed up exploration
-- Focus on real impact, not just visuals
+If you're building something modern, I’d love to design it with you.
 
 ---
 
-## 📬 Let’s Connect
-
-💼 Open for freelance & collaboration  
-📩 DM me on LinkedIn / Email  
-
----
-
-⭐ *"Good design is not how it looks, but how it works."*
+<p align="center">
+⭐ <i>Design is not just what users see — it's what they feel.</i>
+</p>
